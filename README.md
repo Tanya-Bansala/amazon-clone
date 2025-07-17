@@ -1,15 +1,15 @@
-# 🛍️ Amazon Clone Website
+# 🛒 Amazon Clone Website
 
-This is a simple clone of the Amazon homepage using only **HTML5** and **CSS3**.  
-It's a basic frontend project created for practice purposes.
+This is a simple clone of the Amazon homepage created using **HTML5** and **CSS3**.  
+It is a beginner-level frontend project made purely for learning and practice purposes.
 
 ## 🔧 Tech Stack
 - HTML5  
 - CSS3
 
-## 💻 Live Preview  
-[Click here to see the live preview](https://Tanya-Bansala.github.io/amazon-clone/)
 
-## 🔗 Live Website  
-[Click here to see the Amazon Clone Live](https://Tanya-Bansala.github.io/amazon-clone/)
+This project is not affiliated with Amazon in any way.  
+It is built only for educational and practice purposes.
+
+
 
